@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gamebase</string>
+    <string name="home">HOME</string>
+
+    <string-array name="onboarding_title">
+        <item>Welcome to Gamebase</item>
+        <item>Chit-Chat With Other Players \n (Under Development)</item>
+        <item>Information About The Latest Games</item>
+        <item> Search Your Favourite Games</item>
+    </string-array>
+
+    <string-array name="onboarding_description">
+        <item>The place to find the latest and best game recommendations</item>
+        <item>We present chat feature and talk with other users(Under Development)</item>
+        <item>We provide various information about the latest and best-selling games</item>
+        <item>Do a search with the category you want and of course lots of search results about your favourite games</item>
+    </string-array>
+</resources>
